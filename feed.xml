@@ -3,35 +3,35 @@
   <channel>
     <title>Noticias Locales España</title>
     <link>http://www.noticiaslocales.es</link>
-    <description>Últimas noticias y eventos en España.</description>
+    <description>Últimas noticias de España</description>
     <language>es</language>
     <pubDate>Wed, 04 Dec 2024 12:00:00 +0000</pubDate>
-    <lastBuildDate>Wed, 04 Dec 2024 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 12:00:00 +0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="http://www.noticiaslocales.es/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Caída de producción en Ford Almussafes</title>
-      <link>http://www.noticiaslocales.es/ford-almussafes-caida-produccion</link>
-      <description>La planta de Ford en Valencia cierra el año con una caída de producción del 45%, con un ERTE que se extiende por dos años más.</description>
-      <guid>http://www.noticiaslocales.es/ford-almussafes-caida-produccion</guid>
-      <pubDate>Wed, 04 Dec 2024 10:21:00 +0000</pubDate>
+      <title>Barcelona busca regular los alquileres de temporada</title>
+      <link>https://elpais.com/barcelona-alquileres</link>
+      <description>La ciudad votará una nueva normativa urbanística para regular los alquileres temporales. Exigencia de los comunes al PSC</description>
+      <guid>https://elpais.com/barcelona-alquileres</guid>
+      <pubDate>Thu, 05 Dec 2024 10:21:00 +0000</pubDate>
     </item>
 
     <item>
-      <title>Leones en refugio de Alicante</title>
-      <link>http://www.noticiaslocales.es/leones-refugio-alicante</link>
-      <description>Doce leones, entre cachorros y adultos, han sido acogidos en el refugio AAP Primadomus en Villena, Alicante.</description>
-      <guid>http://www.noticiaslocales.es/leones-refugio-alicante</guid>
-      <pubDate>Wed, 04 Dec 2024 10:25:00 +0000</pubDate>
+      <title>Prisión por presunta violación grupal en Sevilla</title>
+      <link>https://www.rtve.es/violacion-ecija-sevilla</link>
+      <description>Tres hombres fueron detenidos y acusados de la agresión sexual contra una menor en Écija</description>
+      <guid>https://www.rtve.es/violacion-ecija-sevilla</guid>
+      <pubDate>Thu, 05 Dec 2024 10:25:00 +0000</pubDate>
     </item>
 
     <item>
-      <title>Minuto de silencio en Valencia por víctimas de la DANA</title>
-      <link>http://www.noticiaslocales.es/minuto-silencio-valencia-dana</link>
-      <description>Valencia ha guardado un minuto de silencio en memoria de las víctimas de la DANA, momentos antes del inicio de la maratón.</description>
-      <guid>http://www.noticiaslocales.es/minuto-silencio-valencia-dana</guid>
-      <pubDate>Tue, 03 Dec 2024 20:00:00 +0000</pubDate>
+      <title>El uso de la bici disminuye en las ciudades</title>
+      <link>https://elpais.com/bicicletas-ciudades</link>
+      <description>El transporte público gratuito y el auge de los patinetes afectan al uso de bicicletas. El gobierno lanzará ayudas para comprar bicicletas eléctricas.</description>
+      <guid>https://elpais.com/bicicletas-ciudades</guid>
+      <pubDate>Thu, 05 Dec 2024 20:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
